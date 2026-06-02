@@ -1,0 +1,4 @@
+numpy
+clifford
+qiskit
+qiskit-aer
