@@ -1,4 +1,15 @@
-numpy
-clifford
-qiskit
-qiskit-aer
+# --- Geometrická algebra ---
+clifford==1.4.0
+numpy==1.26.4
+
+# --- Kvantové počítání (IBM) ---
+qiskit==1.0.2
+qiskit-aer==0.14.0.1
+
+# --- Vizualizace ---
+matplotlib==3.8.4
+pylatexenc==2.10
+
+# --- Jupyter Notebook (volitelné pro běh sešitů) ---
+notebook==7.1.3
+ipykernel==6.29.4
