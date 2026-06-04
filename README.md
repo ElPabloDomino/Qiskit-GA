@@ -4,7 +4,7 @@ Python implementation of quantum algorithms comparing standard matrix-based simu
 
 ## 🚀 Key Features
 * **Dual-Engine:** Core algorithms modeled in both **IBM Qiskit** and Clifford algebra framework.
-* **Algorithms:** Practical implementations of **Deutsch's Algorithm** and **Quantum Teleportation**.
+* **Algorithms:** Practical implementations of **Deutsch's Algorithm**.
 * **Validation:** Verification of exact probability outcomes between both approaches.
 
 ## 🛠️ Requirements & Run
